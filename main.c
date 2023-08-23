@@ -1,9 +1,7 @@
 #include "shell.h"
 
 /**
- * main - the main shell code
- * @argc: number of arguments passed
- * @argv: program arguments to be parsed
+ * main - the main shell function
  *
  * Return: 0 on success
  */
