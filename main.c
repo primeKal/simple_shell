@@ -8,7 +8,7 @@
  * Return: 0 on success
  */
 
-int main(int ac, char **argv)
+int main()
 {
     printf("passed the betty checker");
 
